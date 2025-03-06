@@ -8,12 +8,15 @@ This app helps users identify ingredients using their camera and find recipes ba
 ## Overview
 ### Ingredient Capture
 Take a picture of an ingredient. When displaying it, I noticedI noticed that it would always be rotated. I found that this was due to the image's EXIF data.
-<img src="assets/apple.png" alt="camera" height="200">
+
+<img src="assets/apple.png" alt="camera" height="400">
 
 ### Finding Recipes
 The ingredient classified is added to the list. Users can add more via text or camera. Spoonacular API was used to get a list of recipes using the ingredients listed.
-<img src="assets/recipes%20list.png" alt="recipes list" height="200">
+
+<img src="assets/recipes%20list.png" alt="recipes list" height="400">
 
 ### Recipe Details
 Clicking on a recipe brings up the recipe in detail, showing an image, ingredients and steps.
-<img src="assets/recipe.png" alt="recipe" height="200">
+
+<img src="assets/recipe.png" alt="recipe" height="400">
