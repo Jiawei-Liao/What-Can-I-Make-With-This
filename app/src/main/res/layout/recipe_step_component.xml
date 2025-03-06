@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/stepNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Step 1"
+        android:textStyle="bold"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/stepDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cook."
+        android:textSize="14sp"
+        android:paddingTop="4dp"/>
+
+</LinearLayout>

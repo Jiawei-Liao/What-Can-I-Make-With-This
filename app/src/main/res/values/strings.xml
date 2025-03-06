@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">What Can I Make With This</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="accept_image">Accept</string>
+    <string name="retake_image">Retake</string>
+    <string name="review_image">Review Image</string>
+</resources>
